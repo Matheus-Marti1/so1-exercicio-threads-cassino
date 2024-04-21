@@ -1,6 +1,6 @@
 # Sistemas Operacionais I - Exercício Threads - Cassino
 
-Exercício de Processos para a matéria de Sistemas Operacionais I do curso de Análise e Desenvolvimento de Sistemas da FATEC Zona Leste
+Exercício de Threads para a matéria de Sistemas Operacionais I do curso de Análise e Desenvolvimento de Sistemas da FATEC Zona Leste
 
 ## Enunciado
 
